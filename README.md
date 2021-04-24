@@ -44,6 +44,7 @@ $ npm run test
 $ npm run test:healtcheck
 
 # Execute somente os testes com a tag @contract
+$ npm run test:contract
 
 # Execute somente os testes com a tag @functional
 $ npm run test:functional
