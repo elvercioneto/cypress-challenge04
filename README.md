@@ -4,11 +4,7 @@
 
 - Teste de API com Cypress + CI em Github Actions  
   
--   
-  
--   
- 
--   
+🚧Terminei o projeto mas ainda vou melhorar o ReadMe🚧  
   
 <br/>  
 
